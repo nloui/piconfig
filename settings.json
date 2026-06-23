@@ -2,6 +2,11 @@
   "lastChangelogVersion": "0.79.10",
   "theme": "light",
   "packages": [
-    "npm:@dbaida/pi-sync"
+    "npm:@dbaida/pi-sync",
+    "npm:pi-web-access",
+    "npm:context-mode",
+    "npm:@tintinweb/pi-subagents",
+    "npm:@juicesharp/rpiv-ask-user-question",
+    "npm:pi-cursor-sdk"
   ]
 }

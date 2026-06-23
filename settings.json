@@ -7,6 +7,10 @@
     "npm:context-mode",
     "npm:@tintinweb/pi-subagents",
     "npm:@juicesharp/rpiv-ask-user-question",
-    "npm:pi-cursor-sdk"
-  ]
+    "npm:pi-cursor-sdk",
+    "npm:pi-claude-bridge"
+  ],
+  "defaultProvider": "claude-bridge",
+  "defaultModel": "claude-opus-4-8",
+  "defaultThinkingLevel": "medium"
 }
